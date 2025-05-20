@@ -1,0 +1,18 @@
+var username=undefined;
+var myName="Abdul Kabir";
+var my_age=18;
+var certification="Certified Mobile Application Development";
+var message="Hello World";
+var pizza="PIZZA\nPIZZ\nPIZ\nPI\nP";
+var email="example@example.com";
+var book="A smarter way to learn JavaScript";
+var design="▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+alert(message);
+alert(myName);
+alert(my_age);
+alert(certification);
+alert(pizza);
+alert("My email address is"+" "+email);
+alert("I am trying to learn from the Book"+" "+book);
+document.write("Yah! I can write HTML content through JavaScript");
+alert(design);
